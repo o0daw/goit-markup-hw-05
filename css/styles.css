@@ -630,3 +630,14 @@ body {
 position: relative;
 overflow: hidden;
 }
+
+.hower-img-p {
+  position: absolute;
+  top: 0;
+  line-height: 15;
+  letter-spacing: 0.02em;
+  color: var(--second-footer-color);
+  padding: 40px 32px;
+  background-color: #4d5ae5;
+  height: 100%;
+}
