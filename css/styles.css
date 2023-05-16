@@ -626,6 +626,7 @@ body {
 
 /**----------------------hover-img-portfolio--------------------**/
 
-.hover-img-portfolio {
-
+.hover-img-portfolio-container {
+position: relative;
+overflow: hidden;
 }
